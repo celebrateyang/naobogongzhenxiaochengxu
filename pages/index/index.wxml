@@ -8,6 +8,11 @@
     </block>
   </view>
   <view class="usermotto">
-    <text class="user-motto">{{motto}}</text>
+    <form>
+      <input placeholder='输入你此刻的思想' focus="true"/>
+    </form>
+    
   </view>
+ 
+
 </view>
